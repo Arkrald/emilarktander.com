@@ -1,1 +1,1 @@
-Detta är min personliga hemsida som kommer innehålla information om vem jag är, vad jag gör, mina olika projekt och till sist hur man kan komma kontakt med mig.
+My personal website.
